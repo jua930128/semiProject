@@ -15,12 +15,12 @@ Language	Java 11, JavaScript, Ajax, JSP, HTML5, CSS3 <br>
 디자인툴	HTML5, CSS3, Jquery, Bootstrap <br>
 <br><br>
 ⭐️ 프로젝트 시 활용해본 대표 기술<br>
-- DB설계 및 Mybatis 활용
-- 프론트 JSP작업 시 JQuery와 Bootstrap에 있는 오픈 css를 활용하여 펜션목록 페이지 적용
-- MVC패턴을 이용한 REST API 설계
-- 결제API를 사용하여 테스트 결제기능 구현
-- Ajax를 사용하여 실시간 추가금액 및 총 금액 반영
-- GitHub를 이용하여 형상관리 
+DB설계 및 Mybatis 활용
+프론트 JSP작업 시 JQuery와 Bootstrap에 있는 오픈 css를 활용하여 펜션목록 페이지 적용
+MVC패턴을 이용한 REST API 설계
+결제API를 사용하여 테스트 결제기능 구현
+Ajax를 사용하여 실시간 추가금액 및 총 금액 반영
+GitHub를 이용하여 형상관리 
 <br><br>
 ⭐️ 구현 기능<br>
 회원 가입 및 로그인을 할 수 있게 구현<br>
@@ -34,7 +34,7 @@ Language	Java 11, JavaScript, Ajax, JSP, HTML5, CSS3 <br>
 <br><br>
 ⭐️ 담당 역할/기여도<br>
 [담당 역할]<br>
-- 프로젝트 주제 선정, 기획 및 DB설계, 홈페이지 컨셉과 전반적인 레이아웃 설정, 객실목록 페이지, 객실 상세페이지, 결제, PPT준비.
+프로젝트 주제 선정, 기획 및 DB설계, 홈페이지 컨셉과 전반적인 레이아웃 설정, 객실목록 페이지, 객실 상세페이지, 결제, PPT준비.
 [기여도]<br>
 25% (총 구성원 4명)
 <br><br>
