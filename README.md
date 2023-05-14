@@ -5,14 +5,14 @@
 <br><br>
 ⭐️ 개발 목표<br>
 코로나를 피해 벗어날 수 있는 즐거운 공간을 담은 펜션 사이트를 자바 언어를 사용하여 구현함으로써 객체 지향 개념을 이해하고 GUI환경에서의 적용 및 DB 연동을 이용하여 데이터 관리를 할 수 있습니다. 
-<br>
+<br><br>
 ⭐️ 개발 환경<br>
 운영체제	Window OS, Mac OS <br>
 개발도구	Eclipse, Visual Studio Code <br>
 DBMS	Oracle Database 11g Express <br>
 Server	Apache Tomcat 9.0 <br>
 Language	Java 11, JavaScript, Ajax, JSP, HTML5, CSS3 <br>
-디자인툴	HTML5, CSS3, Jquery, Bootstrap <br>
+디자인툴	HTML5, CSS3, Jquery, Bootstrap
 <br><br>
 ⭐️ 프로젝트 시 활용해본 대표 기술<br>
 DB설계 및 Mybatis 활용
