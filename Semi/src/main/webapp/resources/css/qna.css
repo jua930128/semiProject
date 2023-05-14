@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+#pageNumber{
+
+    width: 250px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#td-top{
+	width : 100%;
+    background-color: #eee ;
+    
+}
+
+#td-top>#titlenum{
+	width: 10%; 
+}
+#td-top>#title1{
+	width: 40%;
+}
+
+#td-top>#titledate{
+	width: 20%;
+}
+
+#td-top>#titlewriter{
+	width: 20%;
+}
+
+#td-top>#titlecheck{
+	width: 10%;
+	
+}
+
+/* section{ */
+/*     width: 1200; */
+    
+/* } */
+
+table{
+	table-layout: fixed;
+}
+
+
+#search{
+    
+    height: 30px;
+    width: 100%;
+    float: left;
+    border: 1px solid black;
+    background: #ffffff;
+}
+
+#typesearch{
+    font-size: 16px;
+    height: 100%;
+    width: 180px;
+    border: 0px;
+    padding: 10px;
+    outline: none;
+    float: left;
+
+}
+#btnsearch{
+    width: 50px;
+    height: 100%;
+    border: 0px;
+    background: gray;
+    outline: none;
+    float: right;
+    color: #ffffff;
+}
+#searchdropbox{
+    width: 20%; 
+    height: 100%; 
+    text-align: center; 
+    float: left;
+    border: 0;
+    
+
+}
+#searchline{
+    height: 30px;
+    background-color: red;
+    width: 1140px;
+}
+
+#btnwrite{
+    width: 100px;
+    float: right;
+    background-color: gray;
+    color: #ffffff; 
+    border: none;
+    box-sizing: border-box;
+}
+#searchtotal{
+    margin: 5px auto;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+

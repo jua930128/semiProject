@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+
+section {
+    /* border: 1px solid black; */
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#pagecontainer{
+	position: relative;
+	min-height: 100%;
+}
+
+#container{
+	
+  min-height : 100%;
+  padding-bottom: 200px;
+}
+
+*:focus {
+    outline: 0;
+}
+
+html, body {
+    height: 100%
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+}
+
+
+#title{
+resize: none;
+}
+.ck-editor__editable { height: 400px; }
+.ck-content { font-size: 12px; }
+#tooltop{
+
+margin-bottom: 20px;
+}
+
+
+#point{
+height: 30px;
+width: 100px;
+float: right;
+}
+
+#toolbottom>#btnsubmit{
+height: 30px;
+color: white;
+background-color: gray;
+border: 0px;
+margin-left: 5px;
+
+}
+#toolbottom>#room_name{
+height: 30px;
+margin-left: 5px;
+
+}
+
+#wrap{
+flex: 1;
+}
+
+
+.right{
+float: right;
+}
+
+    #writer{
+        border: 0px;
+        resize: none;
+        font-weight: bold;
+    }
+
+

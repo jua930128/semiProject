@@ -1,0 +1,264 @@
+@charset "UTF-8";
+
+*:focus {
+    outline: 0;
+}
+#pagecontainer{
+	position: relative;
+	min-height: 100%;
+}
+section {
+    /* border: 1px solid black; */
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#container{
+	
+  min-height : 100%;
+  padding-bottom: 200px;
+}
+
+
+#footer {
+
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 150px; 
+}
+#roomnumber{
+    line-height: 30px;
+    text-align: center;
+    font-weight: bolder;
+    float: left;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+#content{
+
+    width: 1140px;
+    height: 500px;
+    border: none;
+    
+}
+
+#warpp1{
+    margin-left: 30px;
+    margin-right: 150px;
+}
+.wrapp{
+
+    float: left;
+    font-weight: bolder;
+}
+
+#visit{
+	
+	padding-left: 150px;
+	
+}
+
+.thick{
+    border: 0;
+    height: 1px;
+    background: #ccc;
+}
+
+#content{
+    border: none;
+    resize: none;
+}
+
+#reply{
+    
+    background-color: gray;
+    height: 30px;
+    width: 1140px;
+}
+#reply>#writer{
+    width: 10%;
+}
+
+#reply>#replys{
+
+    text-align: center;
+    width: 60%;
+}
+
+#reply>#date{
+    width: 15%;
+}
+
+#reply>#delete{
+	width: 15%;
+	
+}
+
+#boxdelete {
+	
+	background-color: #eee;
+	border: none;
+	color: black;
+}
+
+#replybox{
+    
+    height: 30px;
+    width: 1140px;
+}
+#replybox>#boxwriter{
+    width: 10%;
+    text-align: center;
+}
+
+#replybox>#boxreplys{
+
+    text-align: center;
+    width: 60%;
+}
+
+#replybox>#boxdate{
+    width: 15%;
+    text-align: center;
+}
+
+#replybox>#boxdelete{
+	width: 15%;
+	text-align: center;
+}
+
+table{
+    width: 1140px;
+    
+}
+td, th{
+    text-align: center;
+}
+
+#commemt{
+    width: auto;
+}
+
+th{
+padding: 15px;
+}
+
+td{
+padding-top: 50px;
+padding-bottom: 50px;
+border-bottom: 1px solid gray;
+}
+
+#btnbottom{
+margin-top: 30px;
+
+}
+
+#btnbottom>button{
+background-color: #eee;
+border: none;
+color: black;
+}
+
+#btn-write{
+width: 70px;
+margin-left: 30px;
+float: right;
+}
+
+#btn-title{
+float: right;
+margin-right: 30px;
+width: 70px;
+}
+
+#btn-update{
+float: right;
+margin-right: 30px;
+width: 70px;
+}
+#btn-delete{
+float: right;
+width: 70px;
+}
+
+
+#bottom{
+margin-top: 30px;
+
+}
+
+#pp{
+display: inline-block;
+}
+
+#btnpp{
+float: left;
+margin-right: 30px; 
+}
+#pptitle{
+float: left;
+}
+
+#np{
+display: inline-block;
+}
+
+#btnnp{
+float: left;
+margin-right: 30px;
+}
+#nptitle{
+float: left;
+}
+
+#pptitle,#nptitle{
+line-height: 33px;
+}
+#writerid{
+position: relative;
+left: 30px;
+}
+#commentbox{
+
+border: 0px;
+resize: none;
+}
+#commentwirte{
+width:100%;
+border:2px solid #aaa;
+border-radius:4px;
+margin: 8px 0;
+outline: none;
+padding:8px;
+box-sizing: border-box;
+transition:.3s;
+
+}
+
+#btncomment{
+margin-top: 30px;
+float: right;
+border: #eee;
+position: relative;
+right: 25px;
+border-radius: 30px;
+}
+#comentbox:focus{
+	outline: none;
+}
+
+#rate{
+    float: right;
+    margin-right: 50px;
+}
+
+
+
+
+
+
+

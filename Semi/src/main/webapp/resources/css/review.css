@@ -1,0 +1,144 @@
+@charset "UTF-8";
+#pageNumber{
+
+    width: 250px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#td-top{
+    background-color: #eee ;
+    
+}
+
+section{
+    width: 1200;
+    
+}
+
+table{
+	table-layout: fixed;
+}
+
+#td-top>#titlenum{
+	width: 10%; 
+}
+
+#td-top>#titleroom{
+	width: 15%;
+}
+#td-top>#title1{
+	width: 30%;
+}
+
+#td-top>#titledate{
+	width: 12%;
+}
+
+#td-top>#titlewriter{
+	width: 15%;
+}
+
+#td-top>#titlerate{
+	width: 10%;
+	
+}
+
+#td-top>#titleview{
+	width: 8%;
+}
+
+#search{
+    
+    height: 30px;
+    width: 100%;
+    float: left;
+    border: 1px solid black;
+    background: #ffffff;
+}
+
+#typesearch{
+    font-size: 16px;
+    height: 100%;
+    width: 180px;
+    border: 0px;
+    padding: 10px;
+    outline: none;
+    float: left;
+
+}
+#btnsearch{
+    width: 50px;
+    height: 100%;
+    border: 0px;
+    background: gray;
+    outline: none;
+    float: right;
+    color: #ffffff;
+}
+#searchdropbox{
+    width: 20%; 
+    height: 100%; 
+    text-align: center; 
+    float: left;
+    border: 0;
+    
+
+}
+#searchline{
+    height: 30px;
+    background-color: red;
+    width: 1140px;
+}
+
+#btnwrite{
+    width: 100px;
+    float: right;
+    background-color: gray;
+    color: #ffffff; 
+    border: none;
+    box-sizing: border-box;
+}
+#searchtotal{
+    margin: 5px auto;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+footer{
+    margin: 30px 0 0 0;
+    height: 150px;
+}
+
+#footwrap{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
+#tel{
+    /* border: 1px solid; */
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#cpr {
+    display: flex;
+    justify-content: center;
+    align-items: center;            
+}
+
+
